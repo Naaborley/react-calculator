@@ -1,0 +1,88 @@
+.zero {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  width: 100%;
+  background-color: gray;
+  padding-right: 10px;
+  margin: 15px;
+}
+.signs {
+  margin: 15px;
+  margin-top: -25px;
+  background-color: #f0f0f0;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.col-md-3 {
+  border: 1px solid black;
+  margin-bottom: -17px;
+  padding-left: 125px;
+  padding-top: 15px;
+  margin-top: -10px;
+  border-left: none;
+}
+
+.division {
+  color: white;
+  border-right: none;
+  background-color: blueviolet;
+  background-position: cover;
+}
+
+.no-1 {
+  background-color: #f0f0f0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  margin: 15px;
+  margin-top: -25px;
+  margin-top: -30px;
+}
+.no-2 {
+  background-color: #f0f0f0;
+  width: 100%;
+  margin-top: -30px;
+  margin: 15px;
+  margin-top: -25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.no-3 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: -30px;
+  background-color: #f0f0f0;
+  width: 100%;
+  margin: 15px;
+  margin-top: -25px;
+}
+
+.col-md-6 {
+  border: 1px solid black;
+  padding-top: 15px;
+  margin-top: -10px;
+  margin-bottom: -17px;
+  background-color: #f0f0f0;
+  border-left: none;
+}
+
+.final-row {
+  background-color: #f0f0f0;
+}
+
+.no-4 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f0f0f0;
+  width: 100%;
+  margin: 15px;
+  margin-top: -25px;
+  margin-top: -30px;
+}
+
+.second {
+  border-right: none;
+}
